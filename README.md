@@ -1,1 +1,3 @@
 # homework
+.fisrt
+.next
