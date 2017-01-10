@@ -1,15 +1,8 @@
-﻿var china = {};
-
+var china = {};
+var index="form vim editor";
 var data=[{"id":"p1","alias":"Î÷²Ø","value":"80","level":"2"},{"id":"p2","alias":"Çàº£","value":"70","level":"3"},{"id":"p3","alias":"¸ÊËà","value":"60","level":"4"},{"id":"p4","alias":"ÐÂ½®","value":"90","level":"1"}];
-
-<<<<<<< HEAD
 var status="git";
-
 var colors={"1":"#f2330c","2":"#f25c3e","3":"#f6a798","4":"#f9f"};
-=======
-var colors={"1":"#f2330c","2":"#f25c3e","3":"#f6a798","4":"#f9f222"};
->>>>>>> 34ad780f41fb824e73fd5e2c29661b4320f63691
-
 function getAttr(id){
         var level;
         for(var k=0;k<data.length;k++){
